@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="constellation",
     version="0.1.0",
-    author="gomeshun",
-    author_email="your.email@example.com",  # Please update with your actual email
+    author="Shunichi Horigome",
+    author_email="shunichi.horigome@gmail.com",
     description="A Python enum for astronomical constellations with standard abbreviations",
     long_description=long_description,
     long_description_content_type="text/markdown",

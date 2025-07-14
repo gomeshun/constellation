@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "constellation"
 version = "0.1.0"
 authors = [
-    {name = "gomeshun", email = "your.email@example.com"},
+    {name = "Shunichi Horigome", email = "shunichi.horigome@gmail.com"},
 ]
 description = "A Python enum for astronomical constellations with standard abbreviations"
 readme = "README.md"
