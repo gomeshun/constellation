@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="constellation",
+    name="constellation-enum",
     version="0.1.0",
     author="Shunichi Horigome",
     author_email="shunichi.horigome@gmail.com",

@@ -14,7 +14,7 @@ This package provides a comprehensive enum of all 88 modern constellations recog
 ## Installation
 
 ```bash
-pip install constellation
+pip install constellation-enum
 ```
 
 ## Usage
