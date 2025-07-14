@@ -11,7 +11,7 @@ setup(
     description="A Python enum for astronomical constellations with standard abbreviations",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/gomeshun/constellation",
+    url="https://github.com/gomeshun/constellation-enum",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -29,7 +29,7 @@ setup(
     python_requires=">=3.8",
     keywords="astronomy, constellation, enum, abbreviation",
     project_urls={
-        "Bug Reports": "https://github.com/gomeshun/constellation/issues",
-        "Source": "https://github.com/gomeshun/constellation",
+        "Bug Reports": "https://github.com/gomeshun/constellation-enum/issues",
+        "Source": "https://github.com/gomeshun/constellation-enum",
     },
 )

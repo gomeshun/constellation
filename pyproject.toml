@@ -28,9 +28,9 @@ classifiers = [
 keywords = ["astronomy", "constellation", "enum", "abbreviation"]
 
 [project.urls]
-Homepage = "https://github.com/gomeshun/constellation"
-"Bug Reports" = "https://github.com/gomeshun/constellation/issues"
-"Source" = "https://github.com/gomeshun/constellation"
+Homepage = "https://github.com/gomeshun/constellation-enum"
+"Bug Reports" = "https://github.com/gomeshun/constellation-enum/issues"
+"Source" = "https://github.com/gomeshun/constellation-enum"
 
 [tool.setuptools.packages.find]
 where = ["."]
